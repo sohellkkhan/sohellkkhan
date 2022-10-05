@@ -1,7 +1,7 @@
 [![MasterHead](https://images.pexels.com/photos/159394/pc-computer-android-android-pc-159394.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)](https://https://images.pexels.com/photos/159394/pc-computer-android-android-pc-159394.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 <h1 align="center">Hi 👋, I'm Sohel Khan</h1>
 <h3 align="center">Android developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
+<img align="right" alt="Coding" width="400" src="https://images.pexels.com/photos/3861958/pexels-photo-3861958.jpeg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohellkkhan&label=Profile%20views&color=0e75b6&style=flat" alt="sohellkkhan" /> </p>
 
