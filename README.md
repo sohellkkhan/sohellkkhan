@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohellkkhan&label=Profile%20views&color=0e75b6&style=flat" alt="sohellkkhan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@sohelkhak786" target="blank"><img src="https://img.shields.io/twitter/follow/@sohelkhak786?logo=twitter&style=for-the-badge" alt="@sohelkhak786" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@sohelkhak786" target="blank"><img src="https://img.shields.io/twitter/follow/Sohel Khan?logo=twitter&style=for-the-badge" alt="Sohel Khan" /></a> </p>
 
 - 🌱 I’m currently learning **Kotlin**
 
