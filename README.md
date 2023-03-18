@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohellkkhan&label=Profile%20views&color=0e75b6&style=flat" alt="sohellkkhan" /> </p>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Front end  development **
 
 - 📝 I regularly write articles on [https://happyhealthylifetips.blogspot.com/](https://happyhealthylifetips.blogspot.com/)
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **Android & Web , MEARN**
 
 - 📫 How to reach me **sohelkhak9@gmail.com**
 
