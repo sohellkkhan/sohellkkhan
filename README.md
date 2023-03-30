@@ -1,4 +1,5 @@
-[[![MasterHead](![4911013_2517915](https://user-images.githubusercontent.com/111686657/228750441-6bbb5a78-6999-4d33-a126-](https://img.freepik.com/free-vector/programmer-working-flat-style_52683-15041.jpg?w=740&t=st=1680158332~exp=1680158932~hmac=8fb13784aa40b3f5f686c0cef81cdb504f9b664449eb6845eb6633bdb6681da4)c47c52b1efa3.jpg)auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)](https://https://images.pexels.com/photos/159394/pc-computer-android-android-pc-159394.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+https://img.freepik.com/free-vector/programmer-working-flat-style_52683-15041.jpg?w=740&t=st=1680158332~exp=1680158932~hmac=8fb13784aa40b3f5f686c0cef81cdb504f9b664449eb6845eb6633bdb6681da4
+auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 <h1 align="center">Hi 👋, I'm Sohel Khan</h1>
 <h3 align="center">Frontend & Android developer from India</h3>
 
