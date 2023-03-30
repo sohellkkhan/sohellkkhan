@@ -1,6 +1,6 @@
 ![4911013_2517915](https://user-images.githubusercontent.com/111686657/228751175-9d600ce4-b7cb-4b7b-a047-9b5edbf606b2.jpg)
 
-auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+auto=compress&cs=tinysrgb&w=1060&h=650&dpr=1)
 <h1 align="center">Hi 👋, I'm Sohel Khan</h1>
 <h3 align="center">Frontend & Android developer from India</h3>
 
