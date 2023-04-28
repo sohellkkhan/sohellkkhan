@@ -1,4 +1,3 @@
-![4911013_2517915](https://user-images.githubusercontent.com/111686657/228774992-165ef0ca-33cb-427e-aad7-24a4c3b70879.jpg)
 
 <h1 align="center">Hi 👋, I'm Sohel Khan</h1>
 <h3 align="center">Frontend & Android developer from India</h3>
