@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohellkkhan&label=Profile%20views&color=0e75b6&style=flat" alt="sohellkkhan" /> </p>
 
-- 🌱 I’m currently learning **Front end  development **
+- 🌱 I’m currently learning ** Web development **
 
 - 📝 I regularly write articles on [https://happyhealthylifetips.blogspot.com/](https://happyhealthylifetips.blogspot.com/)
 
