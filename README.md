@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://happyhealthylifetips.blogspot.com/](https://happyhealthylifetips.blogspot.com/)
 
-- 💬 Ask me about **Android & Web , MEARN**
+- 💬 Ask me about **Android & Web Developer **
 
 - 📫 How to reach me **sohelkhak9@gmail.com**
 
